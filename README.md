@@ -1,4 +1,4 @@
-# Роман <a href="url"><img src="/Img/itsme.jpg" align="left" height="480" width="360" ></a>
+# Роман <a href="url"><img src="https://raw.githubusercontent.com/Icetier/Page/main/Img/itsme.jpg" align="left" height="480" width="360" ></a>
 
 ## Немного обо мне
  * Родился в 1990 году
